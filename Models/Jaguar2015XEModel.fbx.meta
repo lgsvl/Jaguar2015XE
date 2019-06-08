@@ -7,6 +7,76 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Jaguar2015XEBody
+    second: {fileID: 2100000, guid: abead97cc3d4c1d42839c4a3608bf5a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XEGlass
+    second: {fileID: 2100000, guid: e42359ec242f552428d1db42fff74bcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XEIndicatorLeft
+    second: {fileID: 2100000, guid: 81ea7258d05f8424bad6bc50ad23b15f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XEIndicatorReverse
+    second: {fileID: 2100000, guid: 6f8b838e32ec38242908dc6142acae39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XEIndicatorRight
+    second: {fileID: 2100000, guid: 011df86744a026c458b79a73dbdf20c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XEInterior
+    second: {fileID: 2100000, guid: 4f053fccf92b31b41b93b76cc08fb86e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XELightBrake
+    second: {fileID: 2100000, guid: 3092328176c52cb4ba794c3dead62bed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XELightHead
+    second: {fileID: 2100000, guid: 6cc083dcf3bd0bb4592ec80cfc655616, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XEMetalRough
+    second: {fileID: 2100000, guid: e20ebab2d333d294b8e7644373a0e54e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XEMetalSmooth
+    second: {fileID: 2100000, guid: 17cea2557f7692644998ceb673d88356, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XEMirror
+    second: {fileID: 2100000, guid: 4e4b11d047f6e4a498f259e0f9da90f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XEPlasticRough
+    second: {fileID: 2100000, guid: a2e6963bdec9238428422bb2659d1a73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XEPlasticSmooth
+    second: {fileID: 2100000, guid: d93a19432ae798d4a8b0a200936a2625, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XETire
+    second: {fileID: 2100000, guid: 456fa6dde8f237941ad6d62450f4f32a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: JaguarXEBody
     second: {fileID: 2100000, guid: 8a6ec7a237023364f9b4ae9b3c5d8738, type: 2}
   - first:
