@@ -2378,27 +2378,52 @@ PrefabInstance:
     - target: {fileID: -1996036886574577958, guid: df594e44cc16d614eaadf8e73b37d41a,
         type: 3}
       propertyPath: m_RenderingLayerMask
-      value: 3
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 8263160296747324657, guid: df594e44cc16d614eaadf8e73b37d41a,
         type: 3}
       propertyPath: m_RenderingLayerMask
-      value: 9
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: -1145569432539483284, guid: df594e44cc16d614eaadf8e73b37d41a,
         type: 3}
       propertyPath: m_RenderingLayerMask
-      value: 17
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: -4053737551979018569, guid: df594e44cc16d614eaadf8e73b37d41a,
         type: 3}
       propertyPath: m_RenderingLayerMask
-      value: 9
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 4901693496858383490, guid: df594e44cc16d614eaadf8e73b37d41a,
         type: 3}
       propertyPath: m_RenderingLayerMask
-      value: 5
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: -1996036886574577958, guid: df594e44cc16d614eaadf8e73b37d41a,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 8263160296747324657, guid: df594e44cc16d614eaadf8e73b37d41a,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: -1145569432539483284, guid: df594e44cc16d614eaadf8e73b37d41a,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: -4053737551979018569, guid: df594e44cc16d614eaadf8e73b37d41a,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4901693496858383490, guid: df594e44cc16d614eaadf8e73b37d41a,
+        type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 16
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: df594e44cc16d614eaadf8e73b37d41a, type: 3}
