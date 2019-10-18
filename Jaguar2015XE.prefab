@@ -1954,7 +1954,7 @@ MonoBehaviour:
         useOcclusionCulling: 1
         cullingMask:
           serializedVersion: 2
-          m_Bits: 15671
+          m_Bits: 7479
       invertFaceCulling: 0
       flipYMode: 0
       probeLayerMask:
