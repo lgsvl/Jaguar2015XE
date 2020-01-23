@@ -2434,7 +2434,7 @@ Transform:
   m_Father: {fileID: 1509710587244449263}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!64 &7404946833410560335
+--- !u!64 &4870710578228977142
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
