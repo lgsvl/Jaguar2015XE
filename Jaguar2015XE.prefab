@@ -44,7 +44,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 0.7490196, b: 0, a: 1}
-  m_Intensity: 0.39788735
+  m_Intensity: 0.0039788736
   m_Range: 0.25
   m_SpotAngle: 179
   m_InnerSpotAngle: 178.60872
@@ -113,7 +113,7 @@ MonoBehaviour:
   m_PointlightHDType: 0
   m_SpotLightShape: 0
   m_AreaLightShape: 0
-  m_Intensity: 5
+  m_Intensity: 0.05
   m_EnableSpotReflector: 0
   m_LuxAtDistance: 1
   m_InnerSpotPercent: 0
@@ -245,7 +245,7 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 0.7957747
+  m_Intensity: 0.07957747
   m_Range: 120
   m_SpotAngle: 170
   m_InnerSpotAngle: 166.11981
@@ -314,7 +314,7 @@ MonoBehaviour:
   m_PointlightHDType: 0
   m_SpotLightShape: 0
   m_AreaLightShape: 0
-  m_Intensity: 10
+  m_Intensity: 1
   m_EnableSpotReflector: 0
   m_LuxAtDistance: 1
   m_InnerSpotPercent: 91.1
@@ -446,7 +446,7 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 0.39788735
+  m_Intensity: 0.0039788736
   m_Range: 3
   m_SpotAngle: 179
   m_InnerSpotAngle: 178.60872
@@ -515,7 +515,7 @@ MonoBehaviour:
   m_PointlightHDType: 0
   m_SpotLightShape: 0
   m_AreaLightShape: 0
-  m_Intensity: 5
+  m_Intensity: 0.05
   m_EnableSpotReflector: 0
   m_LuxAtDistance: 1
   m_InnerSpotPercent: 50
@@ -710,7 +710,7 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 1, g: 0, b: 0, a: 1}
-  m_Intensity: 0.39788735
+  m_Intensity: 0.007957747
   m_Range: 3
   m_SpotAngle: 179
   m_InnerSpotAngle: 178.60872
@@ -779,7 +779,7 @@ MonoBehaviour:
   m_PointlightHDType: 0
   m_SpotLightShape: 0
   m_AreaLightShape: 0
-  m_Intensity: 5
+  m_Intensity: 0.1
   m_EnableSpotReflector: 0
   m_LuxAtDistance: 1
   m_InnerSpotPercent: 75
@@ -943,7 +943,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 0.7490196, b: 0, a: 1}
-  m_Intensity: 0.39788735
+  m_Intensity: 0.0039788736
   m_Range: 0.25
   m_SpotAngle: 179
   m_InnerSpotAngle: 178.60872
@@ -1012,7 +1012,7 @@ MonoBehaviour:
   m_PointlightHDType: 0
   m_SpotLightShape: 0
   m_AreaLightShape: 0
-  m_Intensity: 5
+  m_Intensity: 0.05
   m_EnableSpotReflector: 0
   m_LuxAtDistance: 1
   m_InnerSpotPercent: 0
@@ -1144,7 +1144,7 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 0.39788735
+  m_Intensity: 0.007957747
   m_Range: 3
   m_SpotAngle: 158.4
   m_InnerSpotAngle: 132.88478
@@ -1213,7 +1213,7 @@ MonoBehaviour:
   m_PointlightHDType: 0
   m_SpotLightShape: 0
   m_AreaLightShape: 0
-  m_Intensity: 5
+  m_Intensity: 0.1
   m_EnableSpotReflector: 0
   m_LuxAtDistance: 1
   m_InnerSpotPercent: 0
@@ -1345,7 +1345,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 0.7490196, b: 0, a: 1}
-  m_Intensity: 0.39788735
+  m_Intensity: 0.0039788736
   m_Range: 0.25
   m_SpotAngle: 179
   m_InnerSpotAngle: 178.60872
@@ -1414,7 +1414,7 @@ MonoBehaviour:
   m_PointlightHDType: 0
   m_SpotLightShape: 0
   m_AreaLightShape: 0
-  m_Intensity: 5
+  m_Intensity: 0.05
   m_EnableSpotReflector: 0
   m_LuxAtDistance: 1
   m_InnerSpotPercent: 0
@@ -1546,7 +1546,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 0.7490196, b: 0, a: 1}
-  m_Intensity: 0.39788735
+  m_Intensity: 0.0039788736
   m_Range: 0.25
   m_SpotAngle: 179
   m_InnerSpotAngle: 178.60872
@@ -1615,7 +1615,7 @@ MonoBehaviour:
   m_PointlightHDType: 0
   m_SpotLightShape: 0
   m_AreaLightShape: 0
-  m_Intensity: 5
+  m_Intensity: 0.05
   m_EnableSpotReflector: 0
   m_LuxAtDistance: 1
   m_InnerSpotPercent: 0
@@ -1884,7 +1884,7 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 1, g: 0, b: 0, a: 1}
-  m_Intensity: 0.39788735
+  m_Intensity: 0.007957747
   m_Range: 3
   m_SpotAngle: 179
   m_InnerSpotAngle: 178.60872
@@ -1953,7 +1953,7 @@ MonoBehaviour:
   m_PointlightHDType: 0
   m_SpotLightShape: 0
   m_AreaLightShape: 0
-  m_Intensity: 5
+  m_Intensity: 0.1
   m_EnableSpotReflector: 0
   m_LuxAtDistance: 1
   m_InnerSpotPercent: 75
@@ -2133,7 +2133,7 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 0.7957747
+  m_Intensity: 0.07957747
   m_Range: 120
   m_SpotAngle: 170
   m_InnerSpotAngle: 166.11981
@@ -2202,7 +2202,7 @@ MonoBehaviour:
   m_PointlightHDType: 0
   m_SpotLightShape: 0
   m_AreaLightShape: 0
-  m_Intensity: 10
+  m_Intensity: 1
   m_EnableSpotReflector: 0
   m_LuxAtDistance: 1
   m_InnerSpotPercent: 91.1
@@ -2553,7 +2553,7 @@ GameObject:
   - component: {fileID: 6669476640282891194}
   - component: {fileID: 6535189786731852291}
   - component: {fileID: 3289731967200051632}
-  - component: {fileID: -4668137997597188579}
+  - component: {fileID: -7260012153514554669}
   - component: {fileID: 2539987880774657816}
   - component: {fileID: 1072515022849310901}
   m_Layer: 9
@@ -2775,7 +2775,7 @@ MonoBehaviour:
     m_Center: {x: 0, y: 0, z: 0}
     m_Extent: {x: 0, y: 0, z: 0}
   CinematicCameraTransforms: []
---- !u!114 &
+--- !u!114 &-7260012153514554669
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2822,17 +2822,7 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1509710587244449263}
     m_Modifications:
-    - target: {fileID: 2648639965082615784, guid: df594e44cc16d614eaadf8e73b37d41a,
-        type: 3}
-      propertyPath: m_Layer
-      value: 9
-      objectReference: {fileID: 0}
-    - target: {fileID: -927199367670048503, guid: df594e44cc16d614eaadf8e73b37d41a,
-        type: 3}
-      propertyPath: m_Name
-      value: Jaguar2015XEModel
-      objectReference: {fileID: 0}
-    - target: {fileID: -927199367670048503, guid: df594e44cc16d614eaadf8e73b37d41a,
+    - target: {fileID: -8178024011320802522, guid: df594e44cc16d614eaadf8e73b37d41a,
         type: 3}
       propertyPath: m_Layer
       value: 9
@@ -2932,12 +2922,37 @@ PrefabInstance:
       propertyPath: m_RenderingLayerMask
       value: 16
       objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: df594e44cc16d614eaadf8e73b37d41a,
+        type: 3}
+      propertyPath: m_Name
+      value: Jaguar2015XEModel
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: df594e44cc16d614eaadf8e73b37d41a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 308612112641186614, guid: df594e44cc16d614eaadf8e73b37d41a,
         type: 3}
       propertyPath: m_Layer
       value: 9
       objectReference: {fileID: 0}
+    - target: {fileID: 1141736492642354372, guid: df594e44cc16d614eaadf8e73b37d41a,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1141736492642354372, guid: df594e44cc16d614eaadf8e73b37d41a,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2257952570315736717, guid: df594e44cc16d614eaadf8e73b37d41a,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 2648639965082615784, guid: df594e44cc16d614eaadf8e73b37d41a,
         type: 3}
       propertyPath: m_Layer
       value: 9
@@ -2972,44 +2987,17 @@ PrefabInstance:
       propertyPath: m_RenderingLayerMask
       value: 16
       objectReference: {fileID: 0}
-    - target: {fileID: -8178024011320802522, guid: df594e44cc16d614eaadf8e73b37d41a,
-        type: 3}
-      propertyPath: m_Layer
-      value: 9
-      objectReference: {fileID: 0}
-    - target: {fileID: 1141736492642354372, guid: df594e44cc16d614eaadf8e73b37d41a,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 1141736492642354372, guid: df594e44cc16d614eaadf8e73b37d41a,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: df594e44cc16d614eaadf8e73b37d41a, type: 3}
---- !u!1 &1134612168885128263 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2648639965082615784, guid: df594e44cc16d614eaadf8e73b37d41a,
-    type: 3}
-  m_PrefabInstance: {fileID: 3134276377899774895}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &6934179328520376545 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: -3799902710060457138, guid: df594e44cc16d614eaadf8e73b37d41a,
-    type: 3}
-  m_PrefabInstance: {fileID: 3134276377899774895}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &7942256727982447743 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4992169442365714384, guid: df594e44cc16d614eaadf8e73b37d41a,
     type: 3}
   m_PrefabInstance: {fileID: 3134276377899774895}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &2737904623825645705 stripped
+--- !u!1 &7513495292823741547 stripped
 GameObject:
-  m_CorrespondingSourceObject: {fileID: -8178024011320802522, guid: df594e44cc16d614eaadf8e73b37d41a,
+  m_CorrespondingSourceObject: {fileID: 4844294211950417860, guid: df594e44cc16d614eaadf8e73b37d41a,
     type: 3}
   m_PrefabInstance: {fileID: 3134276377899774895}
   m_PrefabAsset: {fileID: 0}
@@ -3019,9 +3007,21 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 3134276377899774895}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &7513495292823741547 stripped
+--- !u!1 &2737904623825645705 stripped
 GameObject:
-  m_CorrespondingSourceObject: {fileID: 4844294211950417860, guid: df594e44cc16d614eaadf8e73b37d41a,
+  m_CorrespondingSourceObject: {fileID: -8178024011320802522, guid: df594e44cc16d614eaadf8e73b37d41a,
+    type: 3}
+  m_PrefabInstance: {fileID: 3134276377899774895}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1134612168885128263 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2648639965082615784, guid: df594e44cc16d614eaadf8e73b37d41a,
+    type: 3}
+  m_PrefabInstance: {fileID: 3134276377899774895}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6934179328520376545 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -3799902710060457138, guid: df594e44cc16d614eaadf8e73b37d41a,
     type: 3}
   m_PrefabInstance: {fileID: 3134276377899774895}
   m_PrefabAsset: {fileID: 0}
