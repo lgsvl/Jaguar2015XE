@@ -7,6 +7,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: ColliderMat
+    second: {fileID: 2100000, guid: 4216076338d64e348b055fe1fcde47b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Jaguar2015XEBody
     second: {fileID: 2100000, guid: abead97cc3d4c1d42839c4a3608bf5a7, type: 2}
   - first:
@@ -14,6 +19,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Jaguar2015XEGlass
     second: {fileID: 2100000, guid: e42359ec242f552428d1db42fff74bcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaguar2015XEGlassLights
+    second: {fileID: 2100000, guid: 9a90ae24dbde6554e89b721e3f6c95e1, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
