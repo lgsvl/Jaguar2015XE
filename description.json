@@ -2,7 +2,7 @@
   "name": "Jaguar2015XE",
   "accessType": "public",
   "description": "The Jaguar XE 2015 is 4 door sedan based on an open source model from Jaguar Land Rover. It is one of the default vehicles for use in LGSVL Simulator.",
-  "licenseName": "LG Simulator",
+  "licenseName": "LG Content",
   "copyright": "LG Electronics Inc.",
   "bridgePluginId": null,
   "sensors": [
